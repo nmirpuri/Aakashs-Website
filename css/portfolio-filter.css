@@ -38,7 +38,7 @@
 .btn-default:active .filter-button:active
 {
     background-color: #FF1000;
-    color: white;
+    color: red;
 }
 
 .port-image
